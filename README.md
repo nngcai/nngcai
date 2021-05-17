@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nngcai
+- 👀 I’m interested in FullStack Web Development
+- 🌱 I’m currently learning ReactJS, SpringBoot for Java, Docker, NodeJS & Cloud (Microsoft Azure)
+- 💞️ I’m looking to collaborate on any Web application projects
+- 📫 How to reach me: nngcai@student.wethinkcode.co.za
